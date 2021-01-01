@@ -1,3 +1,4 @@
 const { accessSpreadsheet } = require('./spreadsheet.js');
 
-accessSpreadsheet();
+
+accessSpreadsheet(145.00, "cuenta de septiembre", "transferencia").then(console.log);
