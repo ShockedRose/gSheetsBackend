@@ -1,2 +1,2 @@
 # gSheetsBackend
-Google sheets backend controller
+Google spreadsheets backend controller
